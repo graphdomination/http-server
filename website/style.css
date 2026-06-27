@@ -1,0 +1,23 @@
+body {
+    background: #111;
+    color: #eee;
+    font-family: monospace;
+    max-width: 800px;
+    margin: 80px auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #66ff99;
+}
+
+.box {
+    border: 1px solid #333;
+    background: #1b1b1b;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+code {
+    color: #66ccff;
+}
