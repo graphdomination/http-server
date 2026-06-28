@@ -4,4 +4,4 @@ LINK=-lssl -lcrypto
 SRC=*.hpp *.cpp
 
 run:
-	$(CXX) $(CXXFLAGS) $(SRC) -o server $(LINK) && ./server 8080
+	$(CXX) $(CXXFLAGS) $(SRC) -o server $(LINK)
